@@ -136,7 +136,7 @@ function LandingPage() {
               <Col md="4">
                 <Card className="card-profile card-plain">
                   <div className="card-avatar">
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#hank" onClick={(e) => e.preventDefault()}>
                       <img
                         alt="..."
                         src={require("assets/img/faces/IMG_6404.JPG")}
@@ -144,7 +144,7 @@ function LandingPage() {
                     </a>
                   </div>
                   <CardBody>
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#hank" onClick={(e) => e.preventDefault()}>
                       <div className="author">
                         <CardTitle tag="h4">Hank</CardTitle>
                         <h6 className="card-category">Sidekick</h6>
@@ -161,7 +161,7 @@ function LandingPage() {
               <Col md="4">
                 <Card className="card-profile card-plain">
                   <div className="card-avatar">
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#anthony" onClick={(e) => e.preventDefault()}>
                       <img
                         alt="..."
                         src={require("assets/img/faces/IMG_1533.jpg")}
@@ -169,7 +169,7 @@ function LandingPage() {
                     </a>
                   </div>
                   <CardBody>
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#anthony" onClick={(e) => e.preventDefault()}>
                       <div className="author">
                         <CardTitle tag="h4">Anthony Sanderson</CardTitle>
                         <h6 className="card-category">Web Developer</h6>
@@ -186,7 +186,7 @@ function LandingPage() {
                     <Button
                       className="btn-just-icon btn-neutral"
                       color="link"
-                      href="#pablo"
+                      href="https://github.com/ASand-design"
                       onClick={(e) => e.preventDefault()}
                     >
                       <i className="fa fa-github" />
@@ -213,7 +213,7 @@ function LandingPage() {
               <Col md="4">
                 <Card className="card-profile card-plain">
                   <div className="card-avatar">
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="https://www.linkedin.com/in/anthony-sanderson-b2aa25191" onClick={(e) => e.preventDefault()}>
                       <img
                         alt="..."
                         src={require("assets/img/faces/IMG_5024.jpg")}
@@ -221,7 +221,7 @@ function LandingPage() {
                     </a>
                   </div>
                   <CardBody>
-                    <a href="#pablo" onClick={(e) => e.preventDefault()}>
+                    <a href="#anthony" onClick={(e) => e.preventDefault()}>
                       <div className="author">
                         <CardTitle tag="h4">Olivia</CardTitle>
                         <h6 className="card-category">Partner in Crime</h6>
