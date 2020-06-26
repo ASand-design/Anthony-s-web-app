@@ -120,7 +120,7 @@ function LandingPage() {
                     <p>
                       Created this site using JavaScript and React.  Come check out my code.
                     </p>
-                    <Button className="btn-link" color="info" href="#pablo">
+                    <Button className="btn-link" color="info" href="https://github.com/ASand-design/Anthony-s-web-app.git">
                       Github
                     </Button>
                   </div>
